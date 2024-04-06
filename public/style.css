@@ -1,0 +1,71 @@
+* {
+    margin: 10px;
+    background-color: #1c1f24;
+}
+
+
+h3 {
+    color: white;
+    height: 20px;
+    width: auto;
+}
+hr {
+    background-color: white;
+    color: white;
+}
+
+.chat {
+    border-radius: 10px;
+    width: 90;
+    background-color: #128c7e;
+    color: white;
+    padding: 2px;
+
+}
+
+.msg {
+    height: 1.5rem;
+    background-color: #075e54;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.new-btn {
+    color: white;
+    background-color: #128c7e;
+    border-radius: 10px;
+    position: absolute;
+    right: 3%;
+    bottom: 91.5%;
+}
+
+.edt-btn {
+    height: 1.1rem;
+    width: auto;
+    color: white;
+    position: relative;
+    left: 90%;
+    bottom: 46px;
+    border-radius: 10px;
+}
+
+.form-edit {
+    background-color: #128c7e;
+    height: 0px;
+}
+
+.chat-p {
+    padding: 1px;
+    border-radius: 5px;
+}
+
+.dlt-btn {
+    height: 1.1rem;
+    width: auto;
+    color: white;
+    position: relative;
+    left: 93.5%;
+    bottom: 56px;
+    border-radius: 10px;
+}
